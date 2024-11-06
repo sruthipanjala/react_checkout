@@ -1,0 +1,62 @@
+.payment-form {
+    background-image: url('images/pay\ 1\ pic.webp');
+    background-size: cover;
+    background-position: center;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #d55c5c;
+    border-radius: 10px;
+    background-color: rgb(174, 228, 230);
+    color:  rgb(202, 234, 236);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .error {
+    color: rgb(242, 4, 4);
+    font-size: 0.999em;
+    margin-top: 5px;
+  }
+  
+  .success {
+    color: green;
+    font-size: 1.125em;
+    margin-top: 15px;
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .price-display {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .payment-form h1,h2{
+    text-align: center;
+  }
+
+  
